@@ -17,7 +17,8 @@
     "mongodb": "^6.5.0",
     "mongodb-connection-string-url": "^3.0.0",
     "object-assign": "^4.1.1",
-    "vary": "^1.1.2"
+    "vary": "^1.1.2",
+    "vercel": "^33.6.1"
   },
   "description": ""
 }
